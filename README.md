@@ -5,7 +5,7 @@ Simple chat made with Python
 
 - [ ] Create Server service
 
-    - [ ] Handle incoming messages
+    - [x] Handle incoming messages
 
     - [ ] Redistribute messages
 
@@ -15,7 +15,7 @@ Simple chat made with Python
 
 - [ ] Create Client service
 
-    - [ ] Message sending
+    - [x] Message sending
 
     - [ ] Message receiving
 
